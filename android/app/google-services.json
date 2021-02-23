@@ -1,0 +1,57 @@
+{
+  "project_info": {
+    "project_number": "632915932037",
+    "firebase_url": "https://japamala-vponnur.firebaseio.com",
+    "project_id": "japamala-vponnur",
+    "storage_bucket": "japamala-vponnur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632915932037:android:0ddacd08aeac0107bc0aec",
+        "android_client_info": {
+          "package_name": "com.vponnur.japamala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632915932037-3o66tport7lpch2d4pu13d16hu5g8srg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vponnur.japamala",
+            "certificate_hash": "6770900b496aae09c4c8b0d2e00a95833f88611c"
+          }
+        },
+        {
+          "client_id": "632915932037-ckrjvfv9714n67k52hm0s2t7na2mvsud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vponnur.japamala",
+            "certificate_hash": "19a5a0e78f6ef6b8c3ec956623c8e311bb8af0cf"
+          }
+        },
+        {
+          "client_id": "632915932037-j1p5r30pbps83uc7fgamj0ovue2b8ves.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtl2u7nR8Pv8zUzJ9-bU36F2WWjlL9PcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632915932037-j1p5r30pbps83uc7fgamj0ovue2b8ves.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2538937533858268~2543330331"
+    }
+  ],
+  "configuration_version": "1"
+}
